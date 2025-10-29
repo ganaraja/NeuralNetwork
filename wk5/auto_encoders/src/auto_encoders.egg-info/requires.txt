@@ -1,0 +1,2 @@
+pythae>=0.1.2
+svlearn-bootcamp>=0.1.7
